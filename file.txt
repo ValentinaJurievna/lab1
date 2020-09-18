@@ -1,1 +1,2 @@
-Hello! My name is Valya :) I'm 18 years old.
+Hello! My name is Valya :) I'm 18 years old. 
+I want to be a front-end developer.
